@@ -1,0 +1,6 @@
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Debug\TestUsingGit.exe.config
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Debug\TestUsingGit.exe
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Debug\TestUsingGit.pdb
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\obj\Debug\TestUsingGit.csprojResolveAssemblyReference.cache
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\obj\Debug\TestUsingGit.exe
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\obj\Debug\TestUsingGit.pdb

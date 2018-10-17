@@ -17,7 +17,5 @@ namespace TestUsingGit
         {
             return (a % 2 != 1);
         }
-
-
     }
 }

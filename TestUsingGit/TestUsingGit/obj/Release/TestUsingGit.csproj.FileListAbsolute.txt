@@ -1,0 +1,5 @@
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Release\TestUsingGit.exe.config
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Release\TestUsingGit.exe
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\bin\Release\TestUsingGit.pdb
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\obj\Release\TestUsingGit.exe
+C:\Users\belkamili\TestRepo\TestRepo\TestUsingGit\TestUsingGit\obj\Release\TestUsingGit.pdb
