@@ -13,6 +13,7 @@ namespace TestUsingGit
             //test of new commitment
             // what's happen if I add something in github
             Console.WriteLine(Areth.Add(3, 2));
+            /// simultaneously : this is some vs line
         }
     }
 }
