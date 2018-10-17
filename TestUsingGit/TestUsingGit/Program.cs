@@ -11,6 +11,7 @@ namespace TestUsingGit
         static void Main(string[] args)
         {
             //test of new commitment
+            // what's happen if I add something in github
         }
     }
 }
