@@ -14,7 +14,7 @@ namespace TestUsingGit
             Console.WriteLine("Odd or not odd : {0}", Areth.checkOddNumber(34));
             // simultaneously : this is some github line
             // simultaneously : this is some vs line
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
