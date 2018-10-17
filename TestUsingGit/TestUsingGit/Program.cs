@@ -13,8 +13,10 @@ namespace TestUsingGit
             //test of new commitment
             // what's happen if I add something in github
             Console.WriteLine(Areth.Add(3, 2));
+            Console.WriteLine("Odd or not odd : {0}", Areth.checkOddNumber(34));
             // simultaneously : this is some github line
-            /// simultaneously : this is some vs line
+            // simultaneously : this is some vs line
+            Console.ReadLine();
         }
     }
 }

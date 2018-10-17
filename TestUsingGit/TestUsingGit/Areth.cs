@@ -12,5 +12,11 @@ namespace TestUsingGit
         {
             return a + b;
         }
+
+        public static bool checkOddNumber(int a)
+        {
+            return (a % 2 != 1);
+        }
+
     }
 }
